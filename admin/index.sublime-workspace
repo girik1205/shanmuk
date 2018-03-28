@@ -1,0 +1,647 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"prin",
+				"print_r"
+			],
+			[
+				"boder",
+				"border"
+			],
+			[
+				"margin",
+				"margin-top"
+			],
+			[
+				"base",
+				"basepath"
+			],
+			[
+				"pa",
+				"padding"
+			],
+			[
+				"pull",
+				"pull-left"
+			],
+			[
+				"font",
+				"font-size"
+			],
+			[
+				"ce",
+				"center"
+			],
+			[
+				"con",
+				"contactno"
+			],
+			[
+				"sub",
+				"sub_cats"
+			],
+			[
+				"ex",
+				"exit"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"h",
+				"http"
+			],
+			[
+				"sc",
+				"section\tTag"
+			],
+			[
+				"id",
+				"idsl"
+			],
+			[
+				"w",
+				"width"
+			],
+			[
+				"glo",
+				"global"
+			],
+			[
+				"sat",
+				"acctionStatus"
+			],
+			[
+				"isa",
+				"is_array"
+			],
+			[
+				"json",
+				"json_encode"
+			],
+			[
+				"key",
+				"array_key_exists"
+			],
+			[
+				"incl",
+				"include_once"
+			],
+			[
+				"err",
+				"error_reporting"
+			],
+			[
+				"fl",
+				"float"
+			],
+			[
+				"min",
+				"min-height"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"is_A",
+				"is_array"
+			],
+			[
+				"ma",
+				"margin-top"
+			],
+			[
+				"hi",
+				"hidden-sm"
+			],
+			[
+				"strto",
+				"strtotime"
+			],
+			[
+				"str_re",
+				"str_replace"
+			],
+			[
+				"fo",
+				"foreach\tforeach …"
+			],
+			[
+				"im",
+				"imax"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"app",
+				"append"
+			],
+			[
+				"gal",
+				"gal_id"
+			],
+			[
+				"ga",
+				"galleryId"
+			],
+			[
+				"val",
+				"values"
+			],
+			[
+				"revi",
+				"reviews"
+			],
+			[
+				"ads",
+				"ads_pos"
+			],
+			[
+				"utf8",
+				"utf8_decode"
+			],
+			[
+				"utf",
+				"utf8_encode"
+			],
+			[
+				"new_",
+				"new_temple_div"
+			],
+			[
+				"mar",
+				"margin-bottom"
+			],
+			[
+				"pad",
+				"padding"
+			],
+			[
+				"img-",
+				"img-center"
+			],
+			[
+				"onchange",
+				"onChange"
+			],
+			[
+				"ajax",
+				"ajaxqry"
+			],
+			[
+				"js",
+				"json_data"
+			],
+			[
+				"stat",
+				"status"
+			],
+			[
+				"session_d",
+				"session_destroy"
+			],
+			[
+				"ses",
+				"session_unset"
+			],
+			[
+				"input",
+				"input_data"
+			],
+			[
+				"img",
+				"img-responsive"
+			],
+			[
+				"inc",
+				"include_once"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"th",
+				"thead\tTag"
+			],
+			[
+				"mysql_fetch_a",
+				"mysql_fetch_assoc"
+			],
+			[
+				"sess",
+				"session_start"
+			],
+			[
+				"for",
+				"foreach\tforeach …"
+			],
+			[
+				"pri",
+				"print_r"
+			],
+			[
+				"fa",
+				"false"
+			],
+			[
+				"border-r",
+				"border-top-right-radius"
+			],
+			[
+				"box-s",
+				"box-shadow"
+			],
+			[
+				"fun",
+				"function"
+			],
+			[
+				"onc",
+				"onClick"
+			],
+			[
+				"RE",
+				"_REQUEST"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"conf",
+				"Confirm"
+			],
+			[
+				"wi",
+				"width"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"padding-",
+				"padding-bottom"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"package control:in",
+				"Package Control: Install Package"
+			],
+			[
+				"contr",
+				"Package Control: Add Channel"
+			]
+		],
+		"width": 412.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/Users/shanmukh/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/pallavibtq",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517680634/pallavibtq/testphp/test.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517593239/pallavibtq/pallavi/app/code/core/Mage/Admin/Model/User.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517594866/pallavibtq/pallavi/app/etc/local.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517592189/pallavibtq/pallavi/app/code/local/MGS/Mgscore/Helper/Data.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517507009/pallavibtq/pallavi/readme.txt",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517506192/pallavibtq/pallavi/app/etc/local.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517419613/vinbus-root/venbus/libraries/fof/table/behavior/tags.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517420192/vinbus-root/venbus/libraries/cms/html/string.php",
+		"/C/Users/shanmukh/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/vinbus-root",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517418678/aaspire-godady/cocanadaannadanasamajam1898.com/donations.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517418630/aaspire-godady/cocanadaannadanasamajam1898.com/index.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517418473/aaspire-godady/cocanadaannadanasamajam1898.com/config.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517419009/aaspire-godady/cocanadaannadanasamajam1898.com/functions.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517418497/aaspire-godady/cocanadaannadanasamajam1898.com/home.php",
+		"/D/xampp-5.6/htdocs/gld/wp-content/plugins/woocommerce-extra-accounts-fields/public/class-woocommerce-extra-account-fields-public.php",
+		"/D/xampp-5.6/htdocs/gld/wp-content/plugins/woocommerce/includes/data-stores/class-wc-customer-data-store.php",
+		"/D/xampp-5.6/htdocs/gld/wp-content/plugins/woocommerce/templates/myaccount/form-edit-account.php",
+		"/D/xampp-5.6/htdocs/gld/wp-content/plugins/WooCommerceRegistrationFields.php",
+		"/D/xampp-5.6/htdocs/gld/wp-content/plugins/registration-fields.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517067415/aaspire-godady/cocanadaannadanasamajam1898.com/index.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517066941/aaspire-godady/cocanadaannadanasamajam1898.com/index.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517066843/aaspire-godady/cocanadaannadanasamajam1898.com/gallery.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517066770/aaspire-godady/cocanadaannadanasamajam1898.com/gallery.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517037116/aaspire-godady/cocanadaannadanasamajam1898.com/meTrnPay.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517023783/pallavibtq/pallavi/var/report/901112122316",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517023708/pallavibtq/pallavi/var/report/221485418279",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517024200/pallavibtq/pallavi/app/etc/config.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517023071/pallavibtq/pallavi/app/etc/local.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1517023341/pallavibtq/pallavi/app/etc/config.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1516816278/pittRoot/pittsburg/ajaxcatdata.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1516816231/pittRoot/pittsburg/catlist.php",
+		"/D/nodejs/learn/test/console.log('Hello JavaTpoint');",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1516641950/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1516640807/pittRoot/pittsburg/ajaxcatdata.php",
+		"/D/xampp-5.6/htdocs/suresh/login/test.php",
+		"/C/Users/shanmukh/AppData/Local/Temp/fz3temp-3/functions.php",
+		"/C/Users/shanmukh/AppData/Local/Temp/fz3temp-3/paynow.php",
+		"/C/Users/shanmukh/AppData/Local/Temp/fz3temp-3/payu.php",
+		"/C/Users/shanmukh/AppData/Local/Temp/sublime-sftp-browse-1516035161/pittRoot/pittsburg/videocall.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1516035161/pittRoot/pittsburg/videoChat.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515943736/vishalsoft-godaddy/www.nallamalaijunglecamps.com/mybookings.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515943890/vishalsoft-godaddy/www.nallamalaijunglecamps.com/makecancelorder.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515778128/aaspire-godady/sriveereswaraswamytemple.com/timings.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515687313/pittRoot/pittsburg/videoChat.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515603459/pittRoot/pittsburg/medi/footer.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515639200/pittRoot/pittsburg/medi/config.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515603831/pittRoot/pittsburg/medi/login.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515603391/pittRoot/pittsburg/medi/header.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515521312/pittRoot/pittsburg/medi/header.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515520737/pittRoot/pittsburg/medi/addpatient.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515516436/pittRoot/pittsburg/medi/allpatients.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515517865/pittRoot/pittsburg/medi/addbranch.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515433686/pittRoot/pittsburg/medi/config.php",
+		"/D/xampp-5.6/htdocs/suresh/login/config.php",
+		"/D/xampp-5.6/htdocs/suresh/login/index.php",
+		"/D/xampp-5.6/htdocs/suresh/login/header.php",
+		"/D/xampp-5.6/htdocs/suresh/login/login.php",
+		"/D/xampp-5.6/htdocs/suresh/login/addpatient_invoice.php",
+		"/D/xampp-5.6/htdocs/suresh/login/addpatient.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515168506/pittRoot/pittsburg/videoChat.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1515084627/pittRoot/pittsburg/videoChat.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514997452/pittRoot/pittsburg/editlisting.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514997432/pittRoot/pittsburg/postListing.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514998459/pittRoot/pittsburg/n_includes/footer.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514996926/pittRoot/pittsburg/n_includes/header.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514997268/pittRoot/pittsburg/item.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514998277/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514912848/pittRoot/pittsburg/n_includes/user_leftPanel.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514912536/pittRoot/pittsburg/users.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514912040/pittRoot/pittsburg/getlistdata.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514912971/pittRoot/pittsburg/getleadhistory.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514911393/pittRoot/pittsburg/viewUserListings_table.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514911361/pittRoot/pittsburg/viewUserListings.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514911909/pittRoot/pittsburg/viewuserlistingsData.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514910844/pittRoot/pittsburg/n_includes/header.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514910922/pittRoot/pittsburg/n_includes/menu_desktop.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514910899/pittRoot/pittsburg/n_includes/new_menu.php",
+		"/C/Users/shanmukh/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/bmw live 61",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514617819/bmw live 61/data/vhosts/bmw-bps.in/httpdocs/page_selllead.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514617638/bmw live 61/data/vhosts/bmw-bps.in/httpdocs/page_inventorylisting_controll.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514621620/bmw live 61/data/vhosts/bmw-bps.in/httpdocs/admin/page_repurchase_panel_view.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514480236/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514394114/pittRoot/pittsburg/editlisting.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514394240/pittRoot/pittsburg/postListing.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514313707/pittRoot/pittsburg/n_includes/functions.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514312530/pittRoot/pittsburg/postListing.php",
+		"/C/Users/shanmukh/AppData/Roaming/Sublime Text 3/Packages/User/sftp_servers/pittRoot",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514186775/pittRoot/pittsburg/.htaccess",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514135219/pittRoot/pittsburg/getleadhistory.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514136293/pittRoot/pittsburg/sitemap/pittdesi_sitemap.xml",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514133641/pittRoot/pittsburg/viewUserListings.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514133721/pittRoot/pittsburg/sitemap.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514127194/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1514128693/pittRoot/pittsburg/ajaxcatdata.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513959819/pittRoot/pittsburg/n_includes/functions.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513960063/pittRoot/pittsburg/includes/listing_url_creator.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513823915/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513824086/pittRoot/pittsburg/loginverify.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513824056/pittRoot/pittsburg/log.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513824011/pittRoot/pittsburg/includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513824175/pittRoot/pittsburg/n_includes/user_leftPanel.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513736187/pittRoot/pittsburg/item.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513735781/pittRoot/pittsburg/index.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513735599/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513612749/pittRoot/pittsburg/adslist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513612834/pittRoot/pittsburg/uploadad.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513615227/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513520699/pittRoot/pittsburg/data/newyearleadids.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513520850/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513520781/pittRoot/pittsburg/ajaxcatdata.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513520663/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513497683/pittRoot/pittsburg/catlist_newyearevents.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513497767/pittRoot/pittsburg/ajaxcatdata.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513497199/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513438539/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513438467/pittRoot/pittsburg/index.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513440597/pittRoot/pittsburg/catlist.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513438393/pittRoot/pittsburg/includes/listing_url_creator.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513438343/pittRoot/pittsburg/includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513427226/pittRoot/dtwdesi/includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513427714/pittRoot/pittsburg/n_includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513409232/pittRoot/pittsburg/n_includes/functions.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513392057/aaspire-godady/www.junglestarecocamp.com/admin/mail_sent.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513391743/aaspire-godady/www.junglestarecocamp.com/pay_s.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513361517/aaspire-godady/www.junglestarecocamp.com/register_p.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513358602/aaspire-godady/www.junglestarecocamp.com/admin/includes/configuration.php",
+		"/C/users/shanmukh/appdata/local/temp/sublime-sftp-browse-1513358541/aaspire-godady/www.junglestarecocamp.com/admin/includes/functions.php"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 104.0,
+		"where_history":
+		[
+			"D:\\xampp-5.6\\htdocs\\gld",
+			"D:\\xampp-5.6\\htdocs\\gld\\wp-content"
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"xxxxxxxx",
+			"loc",
+			"JString",
+			"FOFTableBehavior",
+			"url",
+			"uploadAadhar",
+			"woo_AadharNumber",
+			"hasAadharNumber",
+			"woo_AadharNumber",
+			"uploadAadhar",
+			"woo_PANNumber",
+			"uploadAadhar",
+			"woo_City_error",
+			"my_image_upload",
+			"woo_City",
+			"my_image_upload",
+			"woo_City",
+			"woo_AadharNumber",
+			"account_first_name",
+			"woo_AadharNumber",
+			"update_user_meta",
+			"woocommerce_update_customer",
+			"update_user_meta",
+			"woocommerce_customer_object_updated_props",
+			"n update_user_meta",
+			"update_user_meta",
+			"update_user_meta(",
+			"n update_user_meta(",
+			"wooc_save_extra_register_fields",
+			"woocommerce_save_account_details",
+			"woo_PANNumber",
+			"woo_City",
+			"get_users",
+			"add_action",
+			"cgt",
+			"templeId",
+			"movie"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.sftp":
+	{
+		"height": 78.0
+	},
+	"pinned_build_system": "",
+	"project": "index.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\users\\shanmukh\\appdata\\local\\temp\\sublime-sftp-browse-1497464690\\windydesi\\index.php"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 196.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"flyInnerDiv"
+			]
+		],
+		"width": 392.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 143.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,27 @@
+<IfModule mod_headers.c>
+  <FilesMatch "\.*">
+    Header set Access-Control-Allow-Origin "*"
+  </FilesMatch>
+
+</IfModule>
+
+<ifModule mod_rewrite.c>
+RewriteEngine On
+ErrorDocument 404 /404.php
+
+RewriteEngine On
+RewriteCond %{REQUEST_FILENAME} !-f
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteRule ^([^/]+)/?$ index.php?page=$1 [L]
+RewriteRule ^products/([^/]+)/?$ index.php?page=products&cat=$1 [L]
+RewriteRule ^services/([^/]+)/?$ index.php?page=services&service=$1 [L]
+RewriteRule ^branches/([^/]+)/?$ index.php?page=branches&branch=$1 [L]
+RewriteRule ^products/([^/]+)/([^/]+)/?$ index.php?page=products&cat=$1&product=$2 [L]
+#RewriteRule ^indian/([a-z0-9_-]+)/([a-z0-9_-]+)$           item.php?c=$1&l=$2
+#RewriteRule ^indian/([a-z0-9_-]+)/([a-z0-9_-]+)/([a-z0-9_-]+)$           item.php?c=$1&s=$2&l=$3
+
+#RewriteRule ^(.*)pennsylvania(.*)$ pittsburg$1 [L,NC]
+#RewriteRule ^(.*)indian(.*)$ pittsburg$1 [L,NC]
+</ifModule> 
+
+
