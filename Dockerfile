@@ -5,7 +5,6 @@ USER demoDock
 RUN id
 USER root
 WORKDIR /tmp
-COPY test.txt /tmp
 ADD http://unec.edu.az/application/uploads/2014/12/pdf-sample.pdf /tmp
 VOLUME /work
 ONBUILD RUN mkdir /tmp/tempo
