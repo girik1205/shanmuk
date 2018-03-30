@@ -12,4 +12,4 @@ RUN apt-get update
 RUN apt-get install -y nginx
 ENV CONTAINER_NAME DemoContainer
 CMD ["/usr/sbin/nginx", "-g", "daemon off;"]
-EXPOSE 80
+EXPOSE  80
